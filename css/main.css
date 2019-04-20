@@ -209,7 +209,7 @@ header .social-info li a:hover {
 }
 
 #feature .feature-item h4 {
-    font-size: 2rem;
+    font-size: 1.7rem;
     margin-bottom: 0;
     font-weight: 300;
     margin-bottom: 5px;
@@ -219,7 +219,7 @@ header .social-info li a:hover {
 #feature .feature-item p {
     color: #9499a2;
     padding-top:1px;
-    font-size:30px;
+    font-size:1.3rem;
 }
 
 #feature .block {
